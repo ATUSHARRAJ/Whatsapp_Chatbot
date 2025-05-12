@@ -122,7 +122,7 @@ response = client.chat.completions.create(
 
 if __name__ == "__main__":
     # Open WhatsApp
-    open_whatsapp("Ayushi")
+    open_whatsapp("Contacts")
     
     # Get AI response
     while True:
