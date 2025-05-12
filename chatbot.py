@@ -10,7 +10,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tessera
 
 
 client = OpenAI(
-    api_key="AIzaSyB8MS4Ab7XrbGxIEfV_2SBk3BKSH6i9iF0",
+    api_key="###########################"
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
